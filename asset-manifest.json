@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/registro-tercera-edad/static/css/main.d4836b2e.css",
+    "main.css": "/registro-tercera-edad/static/css/main.51138714.css",
     "main.js": "/registro-tercera-edad/static/js/main.297718fb.js",
     "index.html": "/registro-tercera-edad/index.html",
-    "main.d4836b2e.css.map": "/registro-tercera-edad/static/css/main.d4836b2e.css.map",
+    "main.51138714.css.map": "/registro-tercera-edad/static/css/main.51138714.css.map",
     "main.297718fb.js.map": "/registro-tercera-edad/static/js/main.297718fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4836b2e.css",
+    "static/css/main.51138714.css",
     "static/js/main.297718fb.js"
   ]
 }
